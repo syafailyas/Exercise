@@ -1,3 +1,5 @@
+package Exercise_01;
+
 import java.util.Scanner;
 
 public class Number_02
